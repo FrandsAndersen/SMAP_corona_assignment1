@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">COVID19 Status</string>
+    <string name="tvCountryName">CountryName</string>
+    <string name="tvDeathsLbl">Deaths:</string>
+    <string name="tvCasesLbl">Cases:</string>
+    <string name="tvUserRatingLbl">User rating:</string>
+    <string name="tvUserNoteLbl">User notes:</string>
+    <string name="btnBack">Back</string>
+    <string name="btnEdit">Edit</string>
+    <string name="btnCancel">Cancel</string>
+    <string name="btnOk">Ok</string>
+    <string name="tvBackslash">/</string>
+    <string name="btnExit">Exit</string>
+</resources>

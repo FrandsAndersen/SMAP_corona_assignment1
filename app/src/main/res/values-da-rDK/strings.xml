@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">COVID19 Status</string>
+    <string name="tvDeathsLbl">Dødstal:</string>
+    <string name="tvCasesLbl">Tilfælde:</string>
+    <string name="tvUserRatingLbl">Bedømmelse:</string>
+    <string name="tvUserNoteLbl">Noter:</string>
+    <string name="btnBack">Tilbage</string>
+    <string name="btnEdit">Rediger</string>
+    <string name="btnCancel">Fortryd</string>
+    <string name="btnOk">Ok</string>
+    <string name="btnExit">Afslut</string>
+    <string name="tvCountryName">CountryName</string>
+    <string name="tvBackslash">/</string>
+</resources>
